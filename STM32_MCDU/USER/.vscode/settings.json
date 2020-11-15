@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "DGUS.C": "cpp"
+    },
+    "files.autoGuessEncoding": true,
+    "files.encoding": "gb2312",
+    "matlab.linterEncoding": "GB2312",
+    "python.pythonPath": "D:\\python-3.7.0\\python.exe"
+}
